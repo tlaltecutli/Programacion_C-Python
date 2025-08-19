@@ -1,6 +1,44 @@
 # Temario: Curso de Programación en C y Python
 ## Nivel Básico-Intermedio
 
+## 📋 Tabla de Contenidos
+
+- [Información General del Curso](#información-general-del-curso)
+- [Distribución del Tiempo](#distribución-del-tiempo)
+- [MÓDULO 1: FUNDAMENTOS DE PROGRAMACIÓN EN C](#módulo-1-fundamentos-de-programación-en-c)
+  - [Semana 1: Introducción a C y Entorno de Desarrollo](#semana-1-introducción-a-c-y-entorno-de-desarrollo)
+  - [Semana 2: Control de Flujo en C](#semana-2-control-de-flujo-en-c)
+  - [Semana 3: Arreglos y Cadenas](#semana-3-arreglos-y-cadenas)
+  - [Semana 4: Funciones y Estructuras](#semana-4-funciones-y-estructuras)
+  - [Semana 5: Punteros y Manejo de Memoria](#semana-5-punteros-y-manejo-de-memoria)
+- [MÓDULO 2: PROGRAMACIÓN EN PYTHON](#módulo-2-programación-en-python)
+  - [Semana 6: Introducción a Python y Sintaxis Básica](#semana-6-introducción-a-python-y-sintaxis-básica)
+  - [Semana 7: Estructuras de Control en Python](#semana-7-estructuras-de-control-en-python)
+  - [Semana 8: Estructuras de Datos en Python](#semana-8-estructuras-de-datos-en-python)
+  - [Semana 9: Funciones y Módulos](#semana-9-funciones-y-módulos)
+  - [Semana 10: Programación Orientada a Objetos](#semana-10-programación-orientada-a-objetos)
+  - [Semana 11: Manejo de Archivos y Excepciones](#semana-11-manejo-de-archivos-y-excepciones)
+  - [Semana 12: Librerías para Análisis de Datos - NumPy](#semana-12-librerías-para-análisis-de-datos---numpy)
+  - [Semana 13: Análisis de Datos con Pandas](#semana-13-análisis-de-datos-con-pandas)
+  - [Semana 14: Visualización de Datos](#semana-14-visualización-de-datos)
+  - [Semana 15: Desarrollo Tecnológico con Python](#semana-15-desarrollo-tecnológico-con-python)
+  - [Semana 16: Proyecto Final](#semana-16-proyecto-final)
+- [SISTEMA DE EVALUACIÓN](#sistema-de-evaluación)
+  - [Primera Evaluación Parcial (20%)](#primera-evaluación-parcial-20)
+  - [Segunda Evaluación Parcial (25%)](#segunda-evaluación-parcial-25)
+  - [Proyecto Final (45%)](#proyecto-final-45)
+  - [Participación y Tareas (10%)](#participación-y-tareas-10)
+- [RECURSOS Y HERRAMIENTAS](#recursos-y-herramientas)
+  - [Software Requerido](#software-requerido)
+  - [Librerías de Python a Instalar](#librerías-de-python-a-instalar)
+  - [Material de Apoyo](#material-de-apoyo)
+  - [Proyectos Sugeridos para el Final](#proyectos-sugeridos-para-el-final)
+- [COMPETENCIAS A DESARROLLAR](#competencias-a-desarrollar)
+  - [Técnicas](#técnicas)
+  - [Transversales](#transversales)
+
+---
+
 ### Información General del Curso
 - **Duración:** 4 meses (16 semanas)
 - **Modalidad:** Clases en línea
@@ -78,7 +116,7 @@
 ### Semana 5: Punteros y Manejo de Memoria
 **Clase 9 (2h):**
 - Conceptos básicos de punteros
-- Declaración y inicialización de punteros
+- Declaración e inicialización de punteros
 - Operadores de direcciones (* y &)
 - Punteros y arreglos
 
@@ -96,7 +134,7 @@
 - Características y ventajas de Python
 - Configuración de Python en VSCode
 - Instalación de extensiones y paquetes
-- Sintaxis básica y indentación
+- Sintaxis básica e indentación
 - Primer programa en Python
 
 **Clase 12 (2h):**
