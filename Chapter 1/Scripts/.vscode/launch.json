@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "g:/My Drive/2025/Clases/UAEMex/Programacion_ C_and_Python/Programacion_C_and_Python/Chapter 3/scripts",
-      "program": "g:/My Drive/2025/Clases/UAEMex/Programacion_ C_and_Python/Programacion_C_and_Python/Chapter 3/scripts/build/Debug/outDebug",
+      "cwd": "g:/My Drive/2025/Clases/UAEMex/Programacion C & Python/Programacion_C-Python/Chapter 1/Scripts",
+      "program": "g:/My Drive/2025/Clases/UAEMex/Programacion C & Python/Programacion_C-Python/Chapter 1/Scripts/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
